@@ -1,4 +1,3 @@
-# Google_Summer_Of_Code_24
 ![logo](https://github.com/GDSC23BundelkhandUniversity/Google_Summer_Of_Code_24/assets/89764162/13fa6d56-68f8-438a-9a40-ea5c42075c6d)
 * ## Since 2005, the Google Summer of Code program has connected 19,000+ new open source contributors from 112 countries with 18,000+ mentors from 133 countries. Google Summer of Code has produced over 43 million lines of code for 800+ open source organizations. 
 
