@@ -15,7 +15,7 @@ Google Summer of Code is an annual program sponsored by Google that offers stipe
 * Each organization may also have specific eligibility critera,so,read every instruction very carefully.
 
 ## How to apply?
-* The application process for contributors begin 18th March.
+* The application process for contributors will begin on 18th March.
 * Students can check the projects that are listed on GSOC website & are required to submit their proporsal to organizations listed on GSOC website, and choose organization according to your favourable/familiar tech stack.
 
 >>#### Google Summer of Code this year Timeline - https://developers.google.com/open-source/gsoc/timeline
