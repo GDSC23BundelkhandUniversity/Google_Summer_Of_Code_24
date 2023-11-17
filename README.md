@@ -1,8 +1,8 @@
 ![logo](https://github.com/GDSC23BundelkhandUniversity/Google_Summer_Of_Code_24/assets/89764162/13fa6d56-68f8-438a-9a40-ea5c42075c6d) 
-* ## Since 2005, the Google Summer of Code program has connected 19,000+ new open source contributors from 112 countries with 18,000+ mentors from 133 countries. Google Summer of Code has produced over 43 million lines of code for 800+ open source organizations. 
+>> * ## Since 2005, the Google Summer of Code program has connected 19,000+ new open source contributors from 112 countries with 18,000+ mentors from 133 countries. Google Summer of Code has produced over 43 million lines of code for 800+ open source organizations. 
 
 ##  About the Google Summer Of Code
-Google Summer of Code is an annual program sponsored by Google that offers stipends to university students for working on open-source projects during the summer. It's a fantastic opportunity for students to gain real-world experience, enhance their coding skills, and contribute to the global open-source community.
+<b>Google Summer of Code is an annual program sponsored by Google that offers stipends to university students for working on open-source projects during the summer. It's a fantastic opportunity for students to gain real-world experience, enhance their coding skills, and contribute to the global open-source community.<b>
 
 ## Why Participate?
 >> * Real-world Experience: GSoC provides you with the chance to work on meaningful projects with experienced mentors from leading open-source organizations.
