@@ -11,6 +11,14 @@ Google Summer of Code is an annual program sponsored by Google that offers stipe
 >> * Networking: Connect with like-minded individuals, mentors, and organizations. Build relationships that can last a lifetime.
 >> * During Google Summer of Code, participating contributors are paired with mentors from open source organizations, gaining exposure to real-world software development techniques.Contributors will learn from experienced open source developers while writing code for real-world projects! A small stipend is provided as an incentive.Participating organizations use the program to identify and bring in new, excited developers. Many of those new developers will continue to contribute to their new communities and open source long after GSoC is over.
 
+## Who can participate?
+* University students over 18 years of age,not emoployer of full-time job can participate in Google summer of Code.
+* Each organization may also have specific eligibility critera,so,read every instruction very carefully.
+
+## How to apply?
+* The application process for contributors begin 18th March.
+* Students can check the projects that are listed on GSOC website & are required to submit their proporsal to organizations listed on GSOC website, and choose organization according to your favourable/familiar tech stack.
+
 >>#### Google Summer of Code this year Timeline - https://developers.google.com/open-source/gsoc/timeline
 
 >>#### List of Organizations through which you can start contributing with - https://summerofcode.withgoogle.com/programs/2023/organizations
