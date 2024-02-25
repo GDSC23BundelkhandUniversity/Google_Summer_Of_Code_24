@@ -22,6 +22,46 @@
 
 >>#### List of Organizations through which you can start contributing with - https://summerofcode.withgoogle.com/programs/2023/organizations
 >>#### Google Summer of Code 2023 Program Rules - https://summerofcode.withgoogle.com/rules
+>>
+>> GSOC"24 Announced Organizations
+>> <hr>
+|  Tech stack                                       |                          Organizations       |
+|---------------------------------------------------|----------------------------------------------|                                      
+|Artificial Intelligence                            |        1) Open Climate Fix (Using computers to fix to climate change)
+|                                                   |        2) CNIF(An open & FAIR neuroscience standards organization)
+|                                                   |        3) USOSPO(Amplifying Research Impact through Open Source)
+|                                                   |        4) CITY of BOSTON (Empowering Boston’s residents through technology)
+|                                                   |        5) Project Mesa (Mesa Agent-based modeling in Python 3+)
+|                                                   |        6) JdeRobot (Toolkit for developing Robotics applications)
+|                                                   |        7) JabRef e.V. (Open Source bibliography manager)
+|                                                   |        8) Open Technologies Alliance-GFOSS (Promote Open standards and Open Source)
+|                                                    |         9) Kubeflow (The Machine Learning Toolkit for Kubernetes)
+|                                                    |          10) Human AI (AI for the Arts and the Humanities)
+|                                                    |          11) BRL-CAD (3D-CAD7other computer-aided tech (CAx))
+|                                                    |         12) The Julia Language (A fresh approach to technical computing)
+|                                                    |          13) Red Hen Lab (Research on Multimodal communication)
+|                                                    |         14) CVAT (Computer Vision Data Annotation platforms for AI)
+|                                                    |          15) Uramaki LAB (The User Experience LAB based on AI)
+|                                                    |          16) sktime (A unified framework for ML with time series)
+|                                                    |          17) gprMAX (Simulating electromagnetics wave propagation)
+|                                                    |         18) OpenVINO Toolkit (Make AI interference faster and easier to depict!)
+|                                                    |         20) The Mifos Initiative (End Poverty One Line of Code at a Time)
+|                                                    |         21) CERN-HSF (Umbrella for particle Physics related projects)
+|                                                    |         22) mlpack (a fast, flexible machine learning library)
+|                                                    |         23) Oppi foundation (Free platform for interactive,tutor-like lessons)
+|                                                    |         24) cBioPORTAL for Cancer Genomics (Aid discovery in complex cancer genomics data)
+|                                                    |         25) Accord project (Open source software for smart legal contracts)
+|                                                    |         26) Rocket.chat ( Open source communications platform for the AI age)
+|                                                    |         27) C2SI (CEYLON COMPUTER SCIENCE INSTITUTE)
+|                                                    |         28) Wellcome Sanger Tree of Life (Genome analysis for all species)
+|                                                    |         29) DeepChem (Democratize AI for drug discovery)
+|                                                    |         30) The palisadoes Foundation (Social media and member management for nonprofits)
+|                                                    |         31) Alaska (Many traditions,One Alaska)
+|                                                    |         32) MIT App Inventor (Anyone can builds apps with global impact)
+|                                                    |         33) OpenCV (++beneficial uses of computer vision in society)
+|                                                    |         34) GeomScale (Scalable geometric and statistical software)
+|                                                    |         35) Department of Biomedical Informatics,Emory (Biomedical research to advanced
+|                                                    |             healthcare)
 
 
 ### Happy coding, and best of luck in your GSoC journey!
