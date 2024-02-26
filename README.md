@@ -11,7 +11,7 @@
 >> * During Google Summer of Code, participating contributors are paired with mentors from open source organizations, gaining exposure to real-world software development techniques.Contributors will learn from experienced open source developers while writing code for real-world projects! A small stipend is provided as an incentive.Participating organizations use the program to identify and bring in new, excited developers. Many of those new developers will continue to contribute to their new communities and open source long after GSoC is over.
 
 ## Who can participate?
-* University students over 18 years of age,not emoployer of full-time job can participate in Google summer of Code.
+* University students over 18 years of age, not emoployer of full-time job can participate in Google summer of Code.
 * Each organization may also have specific eligibility critera,so,read every instruction very carefully.
 
 ## How to apply?
@@ -160,14 +160,23 @@
 |                                                   |         18) Kubeflow (The Machine Learning Toolkit for Kubernetes)
 |                                                   |           19) Open Robotics (Open source software for robotics)
 |                                                   |          20) DatenLord (High-performance AI+ Cloud infrastructure provider)
-|                                                   |          21) CIRU (Checkpoint/Restore for Linux tasks and containers)
-|                                                   |         22) Free and Open Source Silicon Foundation (Working together for Free and Open Source
-|                                                   |             Silicon)
-|                                                   |           23) Scalable Parallel Computing Laboratory (High-performance computing for clusters and
-|                                                   |         cloud
-|
-|
-|
-|
+|                                                   |         21) CIRU (Checkpoint/Restore for Linux tasks and containers)
+|                                                   |   22) Free and Open Source Silicon Foundation (Working together for Free and Open Source Silicon)
+|                                                   |         
+|                                                   |    23) Scalable Parallel Computing Laboratory (High-performance computing for clusters and cloud
+|                                                   |         
+<hr>
 
-### Happy coding, and best of luck in your GSoC journey!
+##  Applications for GSoC contributors open from March 18 to April 2
+<details>
+  <summary>Contributor Applications will open from:</summary>
+  <p style="background-color:#000000; padding:10px;">Applications for GSoC contributors open from March 18 to April 2</p>
+</details>
+
+**GSOC Contributor's proposal sample:** [Proposal Sample](https://google.github.io/gsocguides/student/writing-a-proposal)
+
+###  ⭐ We're here to support you every step of the way! If you have any specific needs or require additional information during your preparation time, please don't hesitate to leave a comment.💁💙
+###  ⭐ This README is your gateway to all the latest updates and developments for GSoC '24. As we continue to receive exciting news and upcoming changes, we'll ensure this space is constantly updated and filled with valuable insights.
+
+
+###  Happy coding, and best of luck in your GSoC journey!
