@@ -60,8 +60,114 @@
 |                                                    |         32) MIT App Inventor (Anyone can builds apps with global impact)
 |                                                    |         33) OpenCV (++beneficial uses of computer vision in society)
 |                                                    |         34) GeomScale (Scalable geometric and statistical software)
-|                                                    |         35) Department of Biomedical Informatics,Emory (Biomedical research to advanced
-|                                                    |             healthcare)
-
+|                                                    |         35) Department of Biomedical Informatics,Emory (Biomedical research to advancedhealthcare.
+>><hr>
+|  Artificial Intelligence                          |         1) Neutralinojs ( Lightweight cross-platform desktop app framework 
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------
+|                                                   |         2) GNU Project ( Development of the GNU Operating System )
+|                                                   |           3) openSUSE Project ( Makers choice for sysadmins , developers and users )
+|                                                   |           4) Robolectric ( Fast unit testing run time for Android )
+|                                                   |           5) Keploy ( E2E test generation mocking toolkit )
+|                                                   |          6) Haskell.org ( Purely function programing language )
+|                                                   |           7) Postman ( The Future is API-First )
+|                                                   |           8) The ENIGMA Team ( A free rapid game development environment )
+|                                                   |           9) GNU Compiler Collection (GCC) ( GNU compilers )
+|                                                   |          10) Git ( Fast,Scalable,Distributed revision control system )
+|                                                   |          11) OpenVINO ( Make AI inference faster and easier to deploy! )
+|                                                   |          12) webpack ( webpack is the module bundler for projects )
+|                                                   |        13) Scala Center ( Guide and support the Scala community )
+|                                                   |        14) Jenkins ( Jenkins, build great things at any scale )
+|                                                   |        15) OpeMRS ( Write Code, Save Lives )
+|                                                   |        16) GNOME Foundation ( A diverse and sustainable free software desktop )
+|                                                   |        17) API Dash ( Next-gen Open Source API DevTool )
+|                                                   |        18) checkstyle ( Helps to adheres of Java coding standard )
+|                                                   |        19) Kotlin Foundation ( Advance the Kotlin programming language )
+|                                                   |         20) Waycrate ( Writing robust tools for the Wayland protocol )
+|                                                   |          21) Software and Computational ( Software Verification, SAT & SMT solving )
+|                                                   |         22) MIT App Inventor ( Anyone can build apps with global impact )
+|                                                   |       23) LLVM Compiler Infrastructure ( LLVM Compiler Infrastructure )
+|                                                   |        24) International Catrobat Association ( Free visual coding apps for computational
+|                                                   |              thinking)
+|                                                   |         25) AboutCode ( Scan code for origin, license and vulnerabilities 
+>><hr>                                              |
+|  End User Application                            |       1) Organic Maps (Offline maps app for tourist ,cyclers & hikers)
+|---------------------------------------------------|-------------------------------------------------------------------------
+|                                                   |         2) Open HealthCare Network (Reimagining Healthcare Delivery)
+|                                                   |        3) Stichting SU2 ( Computational Fluid Dynamics and Optimization)
+|                                                   |          4) OSGeo(Open Source Geospatial) (The OpenSource Geospatial Foundation)
+|                                                   |       5) The Mifos Initiative (End Poverty One Line of Code at aTime)
+|                                                   |       6) Zulip (Organized team chat app designed for efficiency)
+|                                                   |       7) libvirt (Virtualization abstraction library)
+|                                                   |       8) CircuitVerse.org (Build and learn logic circuits in the cloud!)
+|                                                   |       9) ArduPilot (World’s most advanced autonomous vehicle software)
+|                                                   |       10) Oppia Foundation (free platform for interactive,tutor-like lesson)
+|                                                   |       11) ScummVM (Adventure and RPG preservation project)
+|                                                   |       12) Graphite (Redefining state-of-the-art graphics editing)
+|                                                   |      13) OmegaUp (Open CS Education as a catalyst for social change)
+|                                                   |     14) Joplin (The secure note taking application)
+|                                                   |     15) Purr Data (Realtime Audio/Visual Programming Environment)
+|                                                   |     16) Mixxx (DJ Mixing App With Powerful Features For All DJs)
+|                                                   |      17) Sugar Labs (Learning software for children for children)
+|                                                   |     18) KDE Community (International team developing Open Source software)
+|                                                   |      19) MuseScore (The World’s Most Popular Music Notation Software)
+|                                                   |      20) AOSSIE (Australian Umbrella Org for Open-Source Projects)
+|                                                   |        21) OpenStreetMap (Create and distribute free geodata for the world)
+|                                                   |        22) Electron (Cross-platform desktop apps with web technologies)
+|                                                   |        23) OpenWISP (The Hackable Network Management System)
+|                                                   |        24) LAPPIS (Social Participation to Reach Millions)
+|                                                   |     25) Learning Equality (Building equity in education to transform lives)
+|                                                   |        26) CITY of BOSTAN (Empowering Boston’s residents through technology)
+|                                                   |       27) Invesalius (3D Medical visualization and neuronavigation tool)
+|                                                   |       28) Open Chemistry (Advancing Open Source & Open Science for Chemistry)
+|                                                   |        29) Blender Foundation (The Freedom to Create)
+|                                                   |         30) Uramaki LAB (The User Experience LAB based on IA)
+|                                                   |          31) VideoLAN (Open Source Multimedia for everyone!)
+|                                                   |          32) Open Robotics (Open source software for robotics)
+|                                                   |        33) Waycratw (Writing robust for the Wayland protocol)
+|                                                   |         34) Haiku (Operating system that targets personal computing)
+|                                                   |        35) XMPP Strands Foundation (XSF develop an open-standard messaging protocol)
+|                                                   |         36) Open Transit Software Foundation (Help make public transit better)
+|                                                   |        37) LibreOffice (LibreOffice is a free and open source office suite)
+|                                                   |        38) Zendalona (FOSS accessibility solutions for visually impaired)
+|                                                   |       39) GNUImage Manipulation Program (GIMP is a cross-platform image editor)
+|                                                   |       40) Submitty (Homework Autograding and Course Management Tools)
+|                                                   |        41) FOSSASIA (Free and Source Software in Asia
+|                                                   |        42) Kiwix (Internet content available offline)
+|                                                   |         43) Inkscape (Draw freely!)
+|                                                   |           44) AnkiDroid (AnkiDroid makes remembering things easy)
+|                                                   |          45) FreeCAD (Cross-platform 3D parametric modeler)
+|                                                   |         46) CCExtractor Development (TV,Rust,Flutter,Linux,VR and C.In any order)
+|                                                   |             47) Debain (The Universal Operating System
+>><hr>  
+|    Infrastructure and cloud                       |      1) freifunk (Free and open wireless networks)
+|---------------------------------------------------|--------------------------------------------------------------------------                                                   
+|                                                   |       2) UCOSPO(Amplifying Research Impact through Open Source)
+|                                                   |   3) Eclipse Foundation (The Global Open Source Foundation)
+|                                                   |   4) BeagleBoard.org (Open hardware computing for educators and makers)
+|                                                   |   5) Data for the Common Good (Connect, Share, Discover)
+|                                                   |    6) NixOS Foundation (Declarative builds and deployments)
+|                                                   |    7) Unikraft (A Fast and Secure Unikernel SDK)
+|                                                   |     8) CNCF(Building sustainable ecosystems for cloud native)
+|                                                   |      9) AsyncAPI (Building the future of Event-Driven Architectures)
+|                                                   |        10) MetaCall (Simplifying the embedding of programming languages)
+|                                                   |      11) CHIPS Alliance (Open SOURCE IP, tools & standards for ASIC/FPGA)
+|                                                   |       12) The P4 Language Consortium (Evolve the programmable data plane ecosystem)
+|                                                   |                    13) Ceph (The Future of Storage)
+|                                                   |       14) eunomia-bpf (Unleash eBPF Potential with our tools and runtimes)
+|                                                   |            15) KubeVirt (Building a virtualization API for Kubernetes)
+|                                                   |          16) libvirt (Virtualization abstraction library)
+|                                                   |         17) Prometheus-Operator (Managing Prometheus atop Kubernetes)
+|                                                   |         18) Kubeflow (The Machine Learning Toolkit for Kubernetes)
+|                                                   |           19) Open Robotics (Open source software for robotics)
+|                                                   |          20) DatenLord (High-performance AI+ Cloud infrastructure provider)
+|                                                   |          21) CIRU (Checkpoint/Restore for Linux tasks and containers)
+|                                                   |         22) Free and Open Source Silicon Foundation (Working together for Free and Open Source
+|                                                   |             Silicon)
+|                                                   |           23) Scalable Parallel Computing Laboratory (High-performance computing for clusters and
+|                                                   |         cloud
+|
+|
+|
+|
 
 ### Happy coding, and best of luck in your GSoC journey!
